@@ -1,0 +1,85 @@
+@font-face {
+    font-family: GraublauWeb;
+    src: url(GraublauWeb.otf) format(truetype);
+}
+@font-face {
+    font-family: GraublauWeb;
+    font-weight: bold;
+    src: url(GraublauWebBold.otf) format(truetype);
+}
+
+#main
+{
+padding: 0 0 40px 0;
+width:50%;
+margin-left:auto;
+margin-right:auto;
+}
+
+#imgtoad
+{
+cursor:pointer;
+width:500px;
+}
+
+body
+{
+text-align: center;
+font-family:  GraublauWeb ,Verdana, Geneva, sans-serif;
+color: #909090;
+}
+
+header
+{
+height:100px;
+}
+
+h1
+{
+font-size:40pt;
+}
+
+h3
+{
+font-size:14pt;
+}
+
+a {
+    color:#909090;
+    text-decoration:none;
+}
+
+.small 
+{
+font-size:10pt;
+}
+
+.social{
+width:400px;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+}
+.fb, .twit, .share, .gplus{
+    width:400px;
+    height:60px;
+    padding: 15px 0 0 0;
+    overflow:hidden;
+}
+
+#msocialLink
+{
+	display:none;
+}
+
+#clickSpot{
+	height: 103px;
+}
+
+#clickme{
+	display: none;
+}
+
+
+
+

@@ -1,0 +1,42 @@
+h1
+{
+font-size:80pt;
+}
+
+h3
+{
+font-size:36pt;
+}
+
+.small 
+{
+font-size:20pt;
+}
+
+#main
+{
+font-size:30pt;
+width:90%;
+padding:120px 0 0 0;
+}
+
+.social{
+font-size:30pt;
+padding:120px 0 0 0;
+}
+
+#socialLink
+{
+	display:none;
+}
+
+#msocialLink
+{
+	display:inline;
+}
+
+.fb, .twit, .share, .gplus{
+    padding: 15px 0 15px 0;
+}
+
+
